@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/deltaori0/shopping_react.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/deltaori0/shopping_react.git/static/js/main.e04a1274.chunk.js",
-    "main.js.map": "/deltaori0/shopping_react.git/static/js/main.e04a1274.chunk.js.map",
-    "runtime-main.js": "/deltaori0/shopping_react.git/static/js/runtime-main.ac244728.js",
-    "runtime-main.js.map": "/deltaori0/shopping_react.git/static/js/runtime-main.ac244728.js.map",
-    "static/js/2.7b6af2ac.chunk.js": "/deltaori0/shopping_react.git/static/js/2.7b6af2ac.chunk.js",
-    "static/js/2.7b6af2ac.chunk.js.map": "/deltaori0/shopping_react.git/static/js/2.7b6af2ac.chunk.js.map",
-    "index.html": "/deltaori0/shopping_react.git/index.html",
-    "precache-manifest.61d0eb9fe28c2b158886762a0adc1cd5.js": "/deltaori0/shopping_react.git/precache-manifest.61d0eb9fe28c2b158886762a0adc1cd5.js",
-    "service-worker.js": "/deltaori0/shopping_react.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/deltaori0/shopping_react.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7b6af2ac.chunk.js.LICENSE.txt": "/deltaori0/shopping_react.git/static/js/2.7b6af2ac.chunk.js.LICENSE.txt"
+    "main.css": "/shopping_react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/shopping_react/static/js/main.00330d4f.chunk.js",
+    "main.js.map": "/shopping_react/static/js/main.00330d4f.chunk.js.map",
+    "runtime-main.js": "/shopping_react/static/js/runtime-main.50d766dc.js",
+    "runtime-main.js.map": "/shopping_react/static/js/runtime-main.50d766dc.js.map",
+    "static/js/2.da5387d7.chunk.js": "/shopping_react/static/js/2.da5387d7.chunk.js",
+    "static/js/2.da5387d7.chunk.js.map": "/shopping_react/static/js/2.da5387d7.chunk.js.map",
+    "index.html": "/shopping_react/index.html",
+    "precache-manifest.4a500c16d83c07c4fc50f34f9b9ea734.js": "/shopping_react/precache-manifest.4a500c16d83c07c4fc50f34f9b9ea734.js",
+    "service-worker.js": "/shopping_react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/shopping_react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.da5387d7.chunk.js.LICENSE.txt": "/shopping_react/static/js/2.da5387d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac244728.js",
-    "static/js/2.7b6af2ac.chunk.js",
+    "static/js/runtime-main.50d766dc.js",
+    "static/js/2.da5387d7.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e04a1274.chunk.js"
+    "static/js/main.00330d4f.chunk.js"
   ]
 }
