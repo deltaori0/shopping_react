@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deltaori0/shopping_react.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/deltaori0/shopping_react.git/static/js/main.e04a1274.chunk.js",
+    "main.js.map": "/deltaori0/shopping_react.git/static/js/main.e04a1274.chunk.js.map",
+    "runtime-main.js": "/deltaori0/shopping_react.git/static/js/runtime-main.ac244728.js",
+    "runtime-main.js.map": "/deltaori0/shopping_react.git/static/js/runtime-main.ac244728.js.map",
+    "static/js/2.7b6af2ac.chunk.js": "/deltaori0/shopping_react.git/static/js/2.7b6af2ac.chunk.js",
+    "static/js/2.7b6af2ac.chunk.js.map": "/deltaori0/shopping_react.git/static/js/2.7b6af2ac.chunk.js.map",
+    "index.html": "/deltaori0/shopping_react.git/index.html",
+    "precache-manifest.61d0eb9fe28c2b158886762a0adc1cd5.js": "/deltaori0/shopping_react.git/precache-manifest.61d0eb9fe28c2b158886762a0adc1cd5.js",
+    "service-worker.js": "/deltaori0/shopping_react.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/deltaori0/shopping_react.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7b6af2ac.chunk.js.LICENSE.txt": "/deltaori0/shopping_react.git/static/js/2.7b6af2ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac244728.js",
+    "static/js/2.7b6af2ac.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e04a1274.chunk.js"
+  ]
+}
